@@ -1,6 +1,6 @@
-# Machine Learning Git
-## Git repository for hands-on machine learning practice
+## Hands-On Machine Learning Git repository
 #### Working on 
-- plant_disease_detection
+- citizen_petition(NLP)
 #### Finished 
-- handwritten_recognition
+- handwritten_recognition(image)
+- plant_disease_detection(image)
