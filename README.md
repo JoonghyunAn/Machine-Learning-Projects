@@ -1,7 +1,7 @@
 ## Hands-On Machine Learning Git repository
 This is a repository on my machine learning projects. Each folder has a project and a readme markdown file.
 ### In Progress
-- Local LLM fine-tuning and prompt engineering with ollama.
+- Local LLM fine-tuning and prompt engineering with Ollama.
 
 ### Finished 
 - RAG_ECE_Policies_LLM
