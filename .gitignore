@@ -1,4 +1,5 @@
-
+.vector_cache
+.vector_cache/
 test.txt
 0.26.0
 0.26.0'
