@@ -1,0 +1,17 @@
+{
+    "name": "Python ML Container",
+    "build": {
+      "dockerfile": "../Dockerfile"
+    },
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extensions": [
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "ms-toolsai.jupyter"
+    ],
+    "forwardPorts": [],
+    "postCreateCommand": "pip list",
+    "remoteUser": "root"
+  }
